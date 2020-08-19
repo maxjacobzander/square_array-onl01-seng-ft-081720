@@ -7,5 +7,5 @@ def square_array(array)
     squared_array = number ** 2
     i += 1
 end
-
+  return squared_array
 end
